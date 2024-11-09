@@ -20,11 +20,11 @@ The dataset used for this project consists of songs from Spotify, including vari
 # Prerequisites
 The project requires the following libraries:
 
-pandas
-numpy
-matplotlib
-seaborn
-spotipy (if accessing Spotify API) you can refer https://towardsdatascience.com/get-your-spotify-streaming-history-with-python-d5a208bbcbd3 by Vlad Gheorghe.
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- spotipy (if accessing Spotify API) you can refer https://towardsdatascience.com/get-your-spotify-streaming-history-with-python-d5a208bbcbd3 by Vlad Gheorghe.
 
 # Results
 The analysis of the Spotify dataset provided several insights into the characteristics and trends of popular songs, focusing on musical attributes and listener preferences:
